@@ -3,7 +3,7 @@ const CardsData = [
     {
         id: 1,
         rname: "Pepperoni Pizza",
-        imgdata: "../assets/pepperoni_pizza.png",
+        imgdata: "/assets/pepperoni_pizza.png",
         address: "Italian, Pizza",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "2100 + order placed from here recently",
@@ -15,7 +15,7 @@ const CardsData = [
     {
         id: 2,
         rname: "Cheeseburger",
-        imgdata: "../assets/cheese_bruger.png",
+        imgdata: "/assets/cheese_burger.png",
         address: "American, Fast Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1800 + order placed from here recently",
@@ -27,7 +27,7 @@ const CardsData = [
     {
         id: 3,
         rname: "California Sushi Roll",
-        imgdata: "../assets/california_sushi.png",
+        imgdata: "/assets/california_sushi.png",
         address: "Japanese, Sushi",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "950 + order placed from here recently",
@@ -39,7 +39,7 @@ const CardsData = [
     {
         id: 4,
         rname: "Tacos Al Pastor",
-        imgdata: "../assets/tacos.png",
+        imgdata: "/assets/tacos.png",
         address: "Mexican, Tacos",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1300 + order placed from here recently",
@@ -51,7 +51,7 @@ const CardsData = [
     {
         id: 5,
         rname: "Margherita Pizza",
-        imgdata: ".../assets/margherita_pizza.png",
+        imgdata: "/assets/margherita_pizza.png",
         address: "Italian, Pizza",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1450 + order placed from here recently",
@@ -63,7 +63,7 @@ const CardsData = [
     {
         id: 6,
         rname: "Chicken Caesar Salad",
-        imgdata: "../assets/chicken_caesar_salad.png",
+        imgdata: "/assets/chicken_caesar_salad.png",
         address: "Salads, Healthy Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "800 + order placed from here recently",
@@ -75,7 +75,7 @@ const CardsData = [
     {
         id: 7,
         rname: "BBQ Chicken Wings",
-        imgdata: "../assets/BBQ_Chicken_Wings.png",
+        imgdata: "/assets/BBQ_Chicken_Wings.png",
         address: "American, BBQ",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "2100 + order placed from here recently",
@@ -87,7 +87,7 @@ const CardsData = [
     {
         id: 8,
         rname: "Spaghetti Carbonara",
-        imgdata: "../assets/Spaghetti_Carbonara.png",
+        imgdata: "/assets/Spaghetti_Carbonara.png",
         address: "Italian, Pasta",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "900 + order placed from here recently",
@@ -99,7 +99,7 @@ const CardsData = [
     {
         id: 9,
         rname: "Classic Hot Dog",
-        imgdata: "../assets/hot_dog.png",
+        imgdata: "/assets/hot_dog.png",
         address: "American, Fast Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1200 + order placed from here recently",
@@ -111,7 +111,7 @@ const CardsData = [
     {
         id: 10,
         rname: "Vegetarian Burrito",
-        imgdata: "../assets/Vegetarian_Burrito.png",
+        imgdata: "/assets/Vegetarian_Burrito.png",
         address: "Mexican, Vegetarian",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "750 + order placed from here recently",
@@ -123,7 +123,7 @@ const CardsData = [
     {
         id: 11,
         rname: "Pancakes with Syrup",
-        imgdata: "../assets/Pancakes.png",
+        imgdata: "/assets/Pancakes.png",
         address: "Breakfast, Dessert",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1400 + order placed from here recently",
@@ -135,7 +135,7 @@ const CardsData = [
     {
         id: 12,
         rname: "Fish and Chips",
-        imgdata: "../assets/fish_chips.png",
+        imgdata: "/assets/fish_chips.png",
         address: "British, Seafood",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1100 + order placed from here recently",
@@ -147,7 +147,7 @@ const CardsData = [
     {
         id: 13,
         rname: "Grilled Cheese Sandwich",
-        imgdata: "../assets/sandwich.png",
+        imgdata: "/assets/sandwich.png",
         address: "American, Breakfast",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1600 + order placed from here recently",
@@ -159,7 +159,7 @@ const CardsData = [
     {
         id: 14,
         rname: "BBQ Pulled Pork Sandwich",
-        imgdata: "../assets/BBQ_Pulled_Pork_Sandwich.png",
+        imgdata: "/assets/BBQ_Pulled_Pork_Sandwich.png",
         address: "American, BBQ",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1350 + order placed from here recently",
@@ -171,7 +171,7 @@ const CardsData = [
     {
         id: 15,
         rname: "Chocolate Brownie",
-        imgdata: "../assets/Chocolate_Brownie.png",
+        imgdata: "/assets/Chocolate_Brownie.png",
         address: "Dessert, Chocolate",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1850 + order placed from here recently",
@@ -183,7 +183,7 @@ const CardsData = [
     {
         id: 16,
         rname: "Shrimp Tempura",
-        imgdata: "../assets/Shrimp_Tempura.png",
+        imgdata: "/assets/Shrimp_Tempura.png",
         address: "Japanese, Seafood",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1000 + order placed from here recently",
@@ -195,7 +195,7 @@ const CardsData = [
     {
         id: 17,
         rname: "Beef Ramen",
-        imgdata: "../assets/Beef_Ramen.png",
+        imgdata: "/assets/Beef_Ramen.png",
         address: "Japanese, Ramen",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1450 + order placed from here recently",
@@ -207,7 +207,7 @@ const CardsData = [
     {
         id: 18,
         rname: "Chicken Alfredo Pasta",
-        imgdata: "../assets/Chicken_Alfredo_Pasta.png",
+        imgdata: "/assets/Chicken_Alfredo_Pasta.png",
         address: "Italian, Pasta",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1250 + order placed from here recently",
@@ -219,7 +219,7 @@ const CardsData = [
     {
         id: 19,
         rname: "Greek Salad",
-        imgdata: "../assets/Greek_Salad.png",
+        imgdata: "/assets/Greek_Salad.png",
         address: "Salads, Healthy Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "900 + order placed from here recently",
@@ -231,7 +231,7 @@ const CardsData = [
     {
         id: 20,
         rname: "Vanilla Ice Cream",
-        imgdata: "../assets/Vanilla_IceCream.png",
+        imgdata: "/assets/Vanilla_IceCream.png",
         address: "Dessert, Ice Cream",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1900 + order placed from here recently",
