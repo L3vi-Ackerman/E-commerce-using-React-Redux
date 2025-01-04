@@ -16,19 +16,15 @@ const CardsDetails = () => {
                   <tr>
                     <td>
                       <p>
-                        {" "}
                         <strong>Restaurant</strong> : random
                       </p>
                       <p>
-                        {" "}
                         <strong>Price</strong> : Rs. random
                       </p>
                       <p>
-                        {" "}
                         <strong>Dishes</strong> : random
                       </p>
                       <p>
-                        {" "}
                         <strong>Total</strong> :Rs. random
                       </p>
                       {/* <div className='mt-5 d-flex justify-content-between align-items-center' style={{width:100,cursor:"pointer",background:"#ddd",color:"#111"}}>
