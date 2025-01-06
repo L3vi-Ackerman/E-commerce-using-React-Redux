@@ -5,9 +5,13 @@ import Container from "react-bootstrap/Container";
 import Badge from "@mui/material/Badge";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
-
 import { NavLink } from "react-router-dom";
+import {useSelector} from 'react-redux';
+import { cartReducer } from "../redux/reducers/reducer";
 const Header = () => {
+
+  const getData = useSelector((state)=>state.cartReducer);
+  console.log(getData);
   const [anchorEl, setAnchorEl] = useState(null);
   const open = Boolean(anchorEl);
   const handleClick = (event) => {
